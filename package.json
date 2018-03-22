@@ -1,0 +1,9 @@
+{
+	"name" : "myfiziq",
+	"version" : "0.0.1",
+	"main": "index.js",
+	"description": "Ionic Native - myfiziq plugin native apps",
+	"author": {
+		"name": "Tuan Nguyen - Wellteq"
+	}
+}
